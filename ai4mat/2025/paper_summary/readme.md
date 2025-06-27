@@ -1,1 +1,16 @@
+## Spotlight papers
+1. [ALL-ATOM DIFFUSION TRANSFORMERS: UNIFIED GENERATIVE MODELLING OF MOLECULES & MATERIALS](https://openreview.net/pdf?id=mXApCXR2lF)
+2. [TOWARDS EXTRAPOLATION IN DEEP MATERIAL PROPERTY REGRESSION](https://openreview.net/pdf?id=GL5yVOFPpf)
+3. [MOMA: A MODULAR DEEP LEARNING FRAMEWORK FOR MATERIAL PROPERTY PREDICTION](https://openreview.net/pdf?id=Qjv1Kh1vs8)
+4. [TOWARDS FAST, SPECIALIZED MACHINE LEARNING FORCE FIELDS: DISTILLING FOUNDATION MODELS VIA ENERGY HESSIANS](https://openreview.net/pdf?id=MfMm0sa2d7)
+5. [MatBind: Probing the multimodality of materials science with contrastive learning](https://openreview.net/pdf?id=ZG0MBXi55v)
+6. [DEQuify your force field: More efficient simulations using deep equilibrium models](https://openreview.net/pdf?id=XACVRYePQQ)
+7. [Compositional Flows for 3D Molecule and Synthesis Pathway Co-design](https://openreview.net/pdf?id=k42dbEtlpL)
+8. [Operating Robotic Laboratories with Large Language Models and Teachable Agents](https://openreview.net/pdf?id=iA9UN1dEgJ)
+9. [CrystalGym: A New Benchmark for Materials Discovery Using Reinforcement Learning](https://openreview.net/pdf?id=RykFbDm5SU)
+10. [MLIP Arena: Advancing Fairness and Transparency in Machine Learning Interatomic Potentials through an Open and Accessible Benchmark Platform](https://openreview.net/pdf?id=ysKfIavYQE)
+11. [Open Materials Generation with Stochastic Interpolants](https://openreview.net/pdf?id=ka2jxtCrkK)
+12. [PLaID: Preference Aligned Language Model for Targeted Inorganic Materials Design](https://openreview.net/pdf?id=7aoP3ZeBfy)
+13. [Evaluating Universal Interatomic Potentials for Molecular Dynamics of Real-World Minerals](https://openreview.net/pdf?id=me0flBb1hi)
+14. [Does this smell the same? Learning representations of olfactory mixtures using inductive biases](https://openreview.net/pdf?id=TYP85NdMtE)
 
