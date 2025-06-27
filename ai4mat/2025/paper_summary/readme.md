@@ -1,8 +1,8 @@
 ## Spotlight papers
-1. [ALL-ATOM DIFFUSION TRANSFORMERS: UNIFIED GENERATIVE MODELLING OF MOLECULES & MATERIALS](https://openreview.net/pdf?id=mXApCXR2lF)
-2. [TOWARDS EXTRAPOLATION IN DEEP MATERIAL PROPERTY REGRESSION](https://openreview.net/pdf?id=GL5yVOFPpf)
-3. [MOMA: A MODULAR DEEP LEARNING FRAMEWORK FOR MATERIAL PROPERTY PREDICTION](https://openreview.net/pdf?id=Qjv1Kh1vs8)
-4. [TOWARDS FAST, SPECIALIZED MACHINE LEARNING FORCE FIELDS: DISTILLING FOUNDATION MODELS VIA ENERGY HESSIANS](https://openreview.net/pdf?id=MfMm0sa2d7)
+1. [All-atom Diffusion Transformers: Unified generative modelling of molecules and materials](https://openreview.net/pdf?id=mXApCXR2lF)
+2. [Towards Extrapolation in Deep Material Property Regression](https://openreview.net/pdf?id=GL5yVOFPpf)
+3. [MoMa: A Modular Deep Learning Framework for Material Property Prediction](https://openreview.net/pdf?id=Qjv1Kh1vs8)
+4. [Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians](https://openreview.net/pdf?id=MfMm0sa2d7)
 5. [MatBind: Probing the multimodality of materials science with contrastive learning](https://openreview.net/pdf?id=ZG0MBXi55v)
 6. [DEQuify your force field: More efficient simulations using deep equilibrium models](https://openreview.net/pdf?id=XACVRYePQQ)
 7. [Compositional Flows for 3D Molecule and Synthesis Pathway Co-design](https://openreview.net/pdf?id=k42dbEtlpL)
