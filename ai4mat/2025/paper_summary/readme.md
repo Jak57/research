@@ -1,4 +1,4 @@
-## Spotlight papers
+## Spotlight papers of AI4MAT ICLR 2025  
 1. [All-atom Diffusion Transformers: Unified generative modelling of molecules and materials](https://openreview.net/pdf?id=mXApCXR2lF)
 2. [Towards Extrapolation in Deep Material Property Regression](https://openreview.net/pdf?id=GL5yVOFPpf)
 3. [MoMa: A Modular Deep Learning Framework for Material Property Prediction](https://openreview.net/pdf?id=Qjv1Kh1vs8)
