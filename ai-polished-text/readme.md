@@ -28,3 +28,4 @@
 
 ## Other
 * RAID is the largest and most challenging benchmark for AI-generated text detection. (ACL 2024): https://github.com/liamdugan/raid
+* LLM-as-a-Coauthor: Can Mixed Human-Written and Machine-Generated Text Be Detected?: https://arxiv.org/pdf/2401.05952
