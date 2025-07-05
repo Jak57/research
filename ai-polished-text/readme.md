@@ -25,3 +25,6 @@
 
 ## Dataset
 * MixSet: https://llm-coauthor.github.io/
+
+## Other
+* RAID is the largest and most challenging benchmark for AI-generated text detection. (ACL 2024): https://github.com/liamdugan/raid
