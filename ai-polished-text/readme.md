@@ -23,6 +23,9 @@
 * ``conda activate base``
 * ``conda activate apt_env``
 
+## Running Python in cmd
+* ``python3 code.py``
+  
 ## Dataset
 * MixSet: https://llm-coauthor.github.io/
 
