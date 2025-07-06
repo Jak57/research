@@ -23,6 +23,9 @@
 * ``conda activate base``
 * ``conda activate apt_env``
 
+## Project Location
+* ``cd projects/ai-polished-text/ai-polished-text-jakir/data``
+
 ## Running Python in cmd
 * ``python3 code.py``
   
