@@ -27,7 +27,7 @@
 * ``cd projects/ai-polished-text/ai-polished-text-jakir/data``
 
 ## Running Python in cmd
-* ``python3 code.py``
+* ``python3 json_to_csv.py``
   
 ## Dataset
 * MixSet: https://llm-coauthor.github.io/
