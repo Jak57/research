@@ -34,9 +34,42 @@
 
 ## Loading Model from HuggingFace and Running Locally
 * Getting access token - https://huggingface.co/settings/tokens
+   * ``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`` (read)
 * ``huggingface-cli login``
-* 
+* Code for downloading and loading the model
+   * Download
+  ```python
+   import torch
+   from transformers import AutoModelForCausalLM, AutoTokenizer
+   
+   access_token = "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"
+   model_name = "meta-llama/Llama-2-7b-chat-hf"
+   
+   tokenizer = AutoTokenizer.from_pretrained(model_name, token=access_token)
+   model = AutoModelForCausalLM.from_pretrained(model_name, token=access_token)
+   
+   tokenizer.save_pretrained(f"Adversarial_LLM/tokenizers/{model_name}")
+   model.save_pretrained(f"Adversarial_LLM/models/{model_name}")
+   ```
 
+   * Access the local model
+   ```python
+   import torch
+   from transformers import AutoModelForCausalLM, AutoTokenizer
+   
+   model_name = "meta-llama/Llama-2-7b-chat-hf"
+   tokenizer = AutoTokenizer.from_pretrained(f"Adversarial_LLM/tokenizers/{model_name}")
+   model = AutoModelForCausalLM.from_pretrained(f"Adversarial_LLM/models/{model_name}")
+   
+   prompt = "What is the capital of Russia?"
+   prompt_encodings = tokenizer(prompt, return_tensors="pt").to(model.device)
+   response = model.generate(**prompt_encodings)
+   print(tokenizer.decode(response[0], skip_special_tokens=True))
+   ```
+
+## Large Language Models (LLM)
+* https://huggingface.co/meta-llama/Llama-2-7b-chat-hf
+* https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct
 
 ## Other
 * RAID is the largest and most challenging benchmark for AI-generated text detection. (ACL 2024): https://github.com/liamdugan/raid
