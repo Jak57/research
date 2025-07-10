@@ -32,8 +32,8 @@
 ## Dataset
 * MixSet: https://llm-coauthor.github.io/
 
-## Loading model form hugginface
-* 
+## Loading Model from HuggingFace and Running Locally
+* Getting access token - https://huggingface.co/settings/tokens
 
 ## Other
 * RAID is the largest and most challenging benchmark for AI-generated text detection. (ACL 2024): https://github.com/liamdugan/raid
