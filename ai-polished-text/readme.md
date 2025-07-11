@@ -67,6 +67,14 @@
    print(tokenizer.decode(response[0], skip_special_tokens=True))
    ```
 
+## Using Quantized Model (4/8 bit) for Faster Inference
+* TODO
+
+## AI-polished Code
+* https://huggingface.co/datasets/basakdemirok/AIGCodeSet
+  
+
+
 ## Large Language Models (LLM)
 * https://huggingface.co/meta-llama/Llama-2-7b-chat-hf
 * https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct
